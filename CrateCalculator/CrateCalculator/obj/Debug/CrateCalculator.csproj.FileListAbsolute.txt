@@ -1,0 +1,7 @@
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\bin\Debug\CrateCalculator.exe.config
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\bin\Debug\CrateCalculator.exe
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\bin\Debug\CrateCalculator.pdb
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\obj\Debug\CrateCalculator.csprojAssemblyReference.cache
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\obj\Debug\CrateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\obj\Debug\CrateCalculator.exe
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculator\obj\Debug\CrateCalculator.pdb

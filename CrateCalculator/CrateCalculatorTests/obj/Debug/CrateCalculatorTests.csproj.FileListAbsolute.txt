@@ -1,0 +1,17 @@
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\CrateCalculatorTests.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\CrateCalculatorTests.pdb
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\CrateCalculator.exe
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\CrateCalculator.pdb
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\CrateCalculator.exe.config
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\obj\Debug\CrateCalculatorTests.csprojAssemblyReference.cache
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\obj\Debug\CrateCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\obj\Debug\CrateCalculatorTests.csproj.CopyComplete
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\obj\Debug\CrateCalculatorTests.dll
+C:\Users\devendraPC\Downloads\CrateCalculatorForWindows\CrateCalculator\CrateCalculatorTests\obj\Debug\CrateCalculatorTests.pdb

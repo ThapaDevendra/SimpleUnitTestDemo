@@ -1,0 +1,12 @@
+Good thing about this class today was about testing our source code
+as we go along throungh and making sure there is no bug and can easily
+find the error in our code within a seconds. Instead of finishing whole
+project and spending time where it went wrong. This seems very helpful
+in long run especially when we starts writing coding lines of thousands.
+Great and easy to understand lecture. I enjoyed learning this class
+today.
+
+
+
+Thank you
+Devendra Thapa
